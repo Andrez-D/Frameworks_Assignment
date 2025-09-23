@@ -50,7 +50,4 @@ It demonstrates the basic **data science workflow**: loading data, cleaning, ana
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the repo and navigate into it:
-```bash
-https://github.com/Nice254-art/python_week8_assignment/edit/main
-cd Frameworks_Assignment
+### 1. Clone the repo and navigate into it
